@@ -1,0 +1,307 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pictiknew"
+4    android:versionCode="24"
+5    android:versionName="1.0.20" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:10:5-66
+14-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:10:22-64
+15    <!--
+16     io.flutter.app.FlutterApplication is an android.app.Application that
+17         calls FlutterMain.startInitialization(this); in its onCreate method.
+18         In most cases you can leave this as-is, but you if you want to provide
+19         additional functionality it is fine to subclass or reimplement
+20         FlutterApplication and put your custom class here.
+21    -->
+22    <uses-permission android:name="android.permission.READ_CONTACTS" />
+22-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:8:5-72
+22-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:8:22-69
+23    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+23-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:9:5-73
+23-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:9:22-70
+24    <uses-permission android:name="android.permission.CAMERA" />
+24-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:11:5-64
+24-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:11:22-62
+25    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+25-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:12:5-79
+25-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:12:22-77
+26    <uses-permission android:name="android.permission.READ_CONTACTS" />
+26-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:8:5-72
+26-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:8:22-69
+27    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+27-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:14:5-81
+27-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:14:22-78
+28    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+28-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:15:5-85
+28-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:15:22-82
+29    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+29-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:16:5-81
+29-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:16:22-78
+30    <uses-permission android:name="android.permission.VIBRATE" />
+30-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:17:5-66
+30-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:17:22-63
+31    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+31-->[:flutter_local_notifications] C:\Users\admin\StudioProjects\balaji_13\opic\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+31-->[:flutter_local_notifications] C:\Users\admin\StudioProjects\balaji_13\opic\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
+32    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+32-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\238c2846b4a0d28c485c98b5a7f38765\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:23:5-79
+32-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\238c2846b4a0d28c485c98b5a7f38765\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:23:22-76
+33    <uses-permission android:name="android.permission.WAKE_LOCK" />
+33-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\238c2846b4a0d28c485c98b5a7f38765\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:24:5-68
+33-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\238c2846b4a0d28c485c98b5a7f38765\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:24:22-65
+34    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+34-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:26:5-110
+34-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:26:22-107
+35
+36    <application
+36-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:18:5-49:19
+37        android:name="io.flutter.app.FlutterApplication"
+37-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:19:9-57
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.3.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\562e4d8f3eb1ed2feb183f00feb2005d\core-1.3.1\AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:icon="@mipmap/ic_launcher"
+40-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:24:9-43
+41        android:label="PICTIK"
+41-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:20:9-31
+42        android:requestLegacyExternalStorage="true"
+42-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:22:9-52
+43        android:roundIcon="@mipmap/ic_launcher_round"
+43-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:21:9-54
+44        android:testOnly="true"
+45        android:usesCleartextTraffic="true" >
+45-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:23:9-44
+46        <uses-library
+46-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:25:9-27:40
+47            android:name="org.apache.http.legacy"
+47-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:26:13-50
+48            android:required="false" />
+48-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:27:13-37
+49
+50        <activity
+50-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:28:9-43:20
+51            android:name="com.pictiknew.MainActivity"
+51-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:29:13-41
+52            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+52-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:32:13-163
+53            android:hardwareAccelerated="true"
+53-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:33:13-47
+54            android:launchMode="singleTop"
+54-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:30:13-43
+55            android:theme="@style/LaunchTheme"
+55-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:31:13-47
+56            android:windowSoftInputMode="adjustResize" >
+56-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:34:13-55
+57            <intent-filter>
+57-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:35:13-38:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:36:17-68
+58-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:36:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:37:17-76
+60-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:37:27-74
+61            </intent-filter>
+62            <intent-filter>
+62-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:39:13-42:29
+63                <action android:name="android.intent.action.BOOT_COMPLETED" />
+63-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:40:17-78
+63-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:40:25-76
+64                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+64-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:41:17-83
+64-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:41:25-81
+65            </intent-filter>
+66        </activity>
+67        <!--
+68             Don't delete the meta-data below.
+69             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+70        -->
+71        <meta-data
+71-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:46:9-48:33
+72            android:name="flutterEmbedding"
+72-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:47:13-44
+73            android:value="2" />
+73-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:48:13-30
+74
+75        <provider
+75-->[:image_picker] C:\Users\admin\StudioProjects\balaji_13\opic\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+76            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+76-->[:image_picker] C:\Users\admin\StudioProjects\balaji_13\opic\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+77            android:authorities="com.pictiknew.flutter.image_provider"
+77-->[:image_picker] C:\Users\admin\StudioProjects\balaji_13\opic\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+78            android:exported="false"
+78-->[:image_picker] C:\Users\admin\StudioProjects\balaji_13\opic\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+79            android:grantUriPermissions="true" >
+79-->[:image_picker] C:\Users\admin\StudioProjects\balaji_13\opic\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+80            <meta-data
+80-->[:image_picker] C:\Users\admin\StudioProjects\balaji_13\opic\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+81                android:name="android.support.FILE_PROVIDER_PATHS"
+81-->[:image_picker] C:\Users\admin\StudioProjects\balaji_13\opic\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+82                android:resource="@xml/flutter_image_picker_file_paths" />
+82-->[:image_picker] C:\Users\admin\StudioProjects\balaji_13\opic\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+83        </provider>
+84
+85        <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver" />
+85-->[:flutter_local_notifications] C:\Users\admin\StudioProjects\balaji_13\opic\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-106
+85-->[:flutter_local_notifications] C:\Users\admin\StudioProjects\balaji_13\opic\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-103
+86        <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver" >
+86-->[:flutter_local_notifications] C:\Users\admin\StudioProjects\balaji_13\opic\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-20:20
+86-->[:flutter_local_notifications] C:\Users\admin\StudioProjects\balaji_13\opic\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-107
+87            <intent-filter>
+87-->[:flutter_local_notifications] C:\Users\admin\StudioProjects\balaji_13\opic\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-19:29
+88                <action android:name="android.intent.action.BOOT_COMPLETED" />
+88-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:40:17-78
+88-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:40:25-76
+89                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+89-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:41:17-83
+89-->C:\Users\admin\StudioProjects\balaji_13\opic\android\app\src\main\AndroidManifest.xml:41:25-81
+90                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+90-->[:flutter_local_notifications] C:\Users\admin\StudioProjects\balaji_13\opic\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-82
+90-->[:flutter_local_notifications] C:\Users\admin\StudioProjects\balaji_13\opic\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:25-79
+91                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+91-->[:flutter_local_notifications] C:\Users\admin\StudioProjects\balaji_13\opic\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-82
+91-->[:flutter_local_notifications] C:\Users\admin\StudioProjects\balaji_13\opic\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:25-79
+92            </intent-filter>
+93        </receiver>
+94
+95        <provider
+95-->[:share] C:\Users\admin\StudioProjects\balaji_13\opic\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+96            android:name="io.flutter.plugins.share.ShareFileProvider"
+96-->[:share] C:\Users\admin\StudioProjects\balaji_13\opic\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-70
+97            android:authorities="com.pictiknew.flutter.share_provider"
+97-->[:share] C:\Users\admin\StudioProjects\balaji_13\opic\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+98            android:exported="false"
+98-->[:share] C:\Users\admin\StudioProjects\balaji_13\opic\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+99            android:grantUriPermissions="true" >
+99-->[:share] C:\Users\admin\StudioProjects\balaji_13\opic\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+100            <meta-data
+100-->[:image_picker] C:\Users\admin\StudioProjects\balaji_13\opic\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+101                android:name="android.support.FILE_PROVIDER_PATHS"
+101-->[:image_picker] C:\Users\admin\StudioProjects\balaji_13\opic\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+102                android:resource="@xml/flutter_share_file_paths" />
+102-->[:image_picker] C:\Users\admin\StudioProjects\balaji_13\opic\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+103        </provider>
+104        <provider
+104-->[:esys_flutter_share] C:\Users\admin\StudioProjects\balaji_13\opic\build\esys_flutter_share\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+105            android:name="de.esys.esysfluttershare.EsysFlutterShareFileProvider"
+105-->[:esys_flutter_share] C:\Users\admin\StudioProjects\balaji_13\opic\build\esys_flutter_share\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-81
+106            android:authorities="com.pictiknew.fileprovider.github.com/orgs/esysberlin/esys-flutter-share"
+106-->[:esys_flutter_share] C:\Users\admin\StudioProjects\balaji_13\opic\build\esys_flutter_share\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-110
+107            android:exported="false"
+107-->[:esys_flutter_share] C:\Users\admin\StudioProjects\balaji_13\opic\build\esys_flutter_share\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+108            android:grantUriPermissions="true" >
+108-->[:esys_flutter_share] C:\Users\admin\StudioProjects\balaji_13\opic\build\esys_flutter_share\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+109            <meta-data
+109-->[:image_picker] C:\Users\admin\StudioProjects\balaji_13\opic\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+110                android:name="android.support.FILE_PROVIDER_PATHS"
+110-->[:image_picker] C:\Users\admin\StudioProjects\balaji_13\opic\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+111                android:resource="@xml/esys_flutter_share_filepaths" />
+111-->[:image_picker] C:\Users\admin\StudioProjects\balaji_13\opic\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+112        </provider>
+113
+114        <activity
+114-->[:url_launcher] C:\Users\admin\StudioProjects\balaji_13\opic\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+115            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+115-->[:url_launcher] C:\Users\admin\StudioProjects\balaji_13\opic\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+116            android:exported="false"
+116-->[:url_launcher] C:\Users\admin\StudioProjects\balaji_13\opic\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+117            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+117-->[:url_launcher] C:\Users\admin\StudioProjects\balaji_13\opic\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+118        <activity
+118-->[io.scanbot:scanbot-barcode-scanner-sdk-ui:1.0.1.6-SNAPSHOT] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6dcbf3e11be0bd9ae29d970c40dded54\jetified-scanbot-barcode-scanner-sdk-ui-1.0.1.6-SNAPSHOT\AndroidManifest.xml:12:9-14:70
+119            android:name="io.scanbot.sdk.ui.barcode_scanner.view.barcode.BarcodeScannerActivity"
+119-->[io.scanbot:scanbot-barcode-scanner-sdk-ui:1.0.1.6-SNAPSHOT] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6dcbf3e11be0bd9ae29d970c40dded54\jetified-scanbot-barcode-scanner-sdk-ui-1.0.1.6-SNAPSHOT\AndroidManifest.xml:13:13-97
+120            android:theme="@style/ScanbotBarcodeScannerSdkUITheme" />
+120-->[io.scanbot:scanbot-barcode-scanner-sdk-ui:1.0.1.6-SNAPSHOT] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6dcbf3e11be0bd9ae29d970c40dded54\jetified-scanbot-barcode-scanner-sdk-ui-1.0.1.6-SNAPSHOT\AndroidManifest.xml:14:13-67
+121
+122        <service
+122-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\238c2846b4a0d28c485c98b5a7f38765\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:27:9-33:19
+123            android:name="com.google.firebase.components.ComponentDiscoveryService"
+123-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\238c2846b4a0d28c485c98b5a7f38765\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:28:13-84
+124            android:directBootAware="true"
+124-->[com.google.firebase:firebase-common:19.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f63f96ed2b8df43e33362686a1cbc720\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+125            android:exported="false" >
+125-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\238c2846b4a0d28c485c98b5a7f38765\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:29:13-37
+126            <meta-data
+126-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\238c2846b4a0d28c485c98b5a7f38765\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:30:13-32:85
+127                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+127-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\238c2846b4a0d28c485c98b5a7f38765\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:31:17-139
+128                android:value="com.google.firebase.components.ComponentRegistrar" />
+128-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\238c2846b4a0d28c485c98b5a7f38765\jetified-play-services-measurement-api-18.0.0\AndroidManifest.xml:32:17-82
+129            <meta-data
+129-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\9c17a81a90e1658f0371aa23a7d25a4e\jetified-firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+130                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+130-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\9c17a81a90e1658f0371aa23a7d25a4e\jetified-firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+131                android:value="com.google.firebase.components.ComponentRegistrar" />
+131-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\9c17a81a90e1658f0371aa23a7d25a4e\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+132            <!--
+133                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+134                clients to use it as well, by defining this registrar in their own core/common library.
+135            -->
+136            <meta-data
+136-->[com.google.firebase:firebase-common:19.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f63f96ed2b8df43e33362686a1cbc720\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+137                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+137-->[com.google.firebase:firebase-common:19.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f63f96ed2b8df43e33362686a1cbc720\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+138                android:value="com.google.firebase.components.ComponentRegistrar" />
+138-->[com.google.firebase:firebase-common:19.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f63f96ed2b8df43e33362686a1cbc720\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+139        </service>
+140
+141        <provider
+141-->[com.google.firebase:firebase-common:19.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f63f96ed2b8df43e33362686a1cbc720\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+142            android:name="com.google.firebase.provider.FirebaseInitProvider"
+142-->[com.google.firebase:firebase-common:19.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f63f96ed2b8df43e33362686a1cbc720\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+143            android:authorities="com.pictiknew.firebaseinitprovider"
+143-->[com.google.firebase:firebase-common:19.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f63f96ed2b8df43e33362686a1cbc720\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+144            android:directBootAware="true"
+144-->[com.google.firebase:firebase-common:19.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f63f96ed2b8df43e33362686a1cbc720\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+145            android:exported="false"
+145-->[com.google.firebase:firebase-common:19.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f63f96ed2b8df43e33362686a1cbc720\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+146            android:initOrder="100" />
+146-->[com.google.firebase:firebase-common:19.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\f63f96ed2b8df43e33362686a1cbc720\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+147
+148        <receiver
+148-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:29:9-33:20
+149            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+149-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:30:13-85
+150            android:enabled="true"
+150-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:31:13-35
+151            android:exported="false" >
+151-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:32:13-37
+152        </receiver>
+153
+154        <service
+154-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:35:9-38:40
+155            android:name="com.google.android.gms.measurement.AppMeasurementService"
+155-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:36:13-84
+156            android:enabled="true"
+156-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:37:13-35
+157            android:exported="false" />
+157-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:38:13-37
+158        <service
+158-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:39:9-43:72
+159            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+159-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:40:13-87
+160            android:enabled="true"
+160-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:41:13-35
+161            android:exported="false"
+161-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:42:13-37
+162            android:permission="android.permission.BIND_JOB_SERVICE" />
+162-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0b8e8ad67945ed41f1f6c54ca9dc31de\jetified-play-services-measurement-18.0.0\AndroidManifest.xml:43:13-69
+163
+164        <meta-data
+164-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\018f3ceb3f621bde5bd338720189b04f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+165            android:name="com.google.android.gms.version"
+165-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\018f3ceb3f621bde5bd338720189b04f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+166            android:value="@integer/google_play_services_version" />
+166-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\018f3ceb3f621bde5bd338720189b04f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+167    </application>
+168
+169</manifest>

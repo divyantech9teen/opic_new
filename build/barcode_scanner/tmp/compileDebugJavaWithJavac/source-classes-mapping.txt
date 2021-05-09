@@ -1,0 +1,6 @@
+io/scanbot/barcode/sdk/flutter/utils/StorageUtils.java
+ io.scanbot.barcode.sdk.flutter.utils.StorageUtils
+io/scanbot/barcode/sdk/flutter/BuildConfig.java
+ io.scanbot.barcode.sdk.flutter.BuildConfig
+io/scanbot/barcode/sdk/flutter/utils/ObjectMapper.java
+ io.scanbot.barcode.sdk.flutter.utils.ObjectMapper

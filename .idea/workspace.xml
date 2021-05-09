@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33cadf45-0d5a-4b40-bfa1-bb07fb21e1a9" name="Default Changelist" comment="change by divyan 08-05-2021" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iwvyiDkwWodestFGQ1PmrfACdn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Keval Work\Flutter Projects\pic_tik_customer_app\lib\Screen" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\StudioProjects\balaji_13\opic\images" />
+      <recent name="D:\Projects\pictik_customer_app\android\app\src\main\res\drawable" />
+      <recent name="D:\Projects\pictik_customer_app\images" />
+      <recent name="G:\Keval Work\Flutter Projects\pictik_customer_app\lib\Screen" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33cadf45-0d5a-4b40-bfa1-bb07fb21e1a9" name="Default Changelist" comment="" />
+      <created>1602831724288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602831724288</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Dashboard banner done by anirudh">
+      <created>1605774426781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605774426781</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dashboard banner done by anirudh">
+      <created>1605774626319</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605774626319</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Dashboard banner done by anirudh">
+      <created>1605774671941</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605774671941</updated>
+    </task>
+    <task id="LOCAL-00004" summary="google view done by anirudh">
+      <created>1606058817038</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606058817051</updated>
+    </task>
+    <task id="LOCAL-00005" summary="google view done by anirudh">
+      <created>1606062385505</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606062385505</updated>
+    </task>
+    <task id="LOCAL-00006" summary="google view done by anirudh">
+      <created>1606128127627</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606128127627</updated>
+    </task>
+    <task id="LOCAL-00007" summary="google view done by anirudh">
+      <created>1608217880359</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608217880359</updated>
+    </task>
+    <task id="LOCAL-00008" summary="completed client issue of login grey screen by anirudh">
+      <created>1608783350999</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608783350999</updated>
+    </task>
+    <task id="LOCAL-00009" summary="completed client issue of login grey screen by anirudh">
+      <created>1608784417803</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608784417803</updated>
+    </task>
+    <task id="LOCAL-00010" summary="completed client issue of login grey screen by anirudh">
+      <created>1608784898832</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608784898832</updated>
+    </task>
+    <task id="LOCAL-00011" summary="completed client issue of login grey screen by anirudh">
+      <created>1608785530888</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608785530888</updated>
+    </task>
+    <task id="LOCAL-00012" summary="by rinki">
+      <created>1613455035407</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1613455035407</updated>
+    </task>
+    <task id="LOCAL-00013" summary="by rinki">
+      <created>1615281400165</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1615281400165</updated>
+    </task>
+    <task id="LOCAL-00014" summary="by rinki at 11:24 am">
+      <created>1619589313842</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1619589313842</updated>
+    </task>
+    <task id="LOCAL-00015" summary="by rinki">
+      <created>1619699923890</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1619699923890</updated>
+    </task>
+    <task id="LOCAL-00016" summary="by rinki">
+      <created>1620017691347</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1620017691347</updated>
+    </task>
+    <task id="LOCAL-00017" summary="by rinki">
+      <created>1620211187665</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1620211187665</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dashboard banner done by anirudh" />
+    <MESSAGE value="google view done by anirudh" />
+    <MESSAGE value="completed client issue of login grey screen by anirudh" />
+    <MESSAGE value="by rinki at 11:24 am" />
+    <MESSAGE value="by rinki" />
+    <option name="LAST_COMMIT_MESSAGE" value="by rinki" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611998320318">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="515" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1611998320318" />
+    <state x="726" y="175" key="#com.intellij.ide.util.MemberChooser" timestamp="1620126192253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1615270853988" />
+    <state x="726" y="175" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1620126192253" />
+    <state x="790" y="0" key="CommitChangelistDialog2" timestamp="1620481950186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1615281394788" />
+    <state x="790" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1620481950186" />
+    <state x="1021" y="175" key="FileChooserDialogImpl" timestamp="1620534081806">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1021" y="175" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1620534081806" />
+    <state x="1225" y="212" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1620478509978" />
+    <state x="789" y="400" key="Github.ShareDialog" timestamp="1619588629109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="789" y="400" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619588629109" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1620538254066">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1620538254066" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620478360019" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1620538254065">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1620538254065" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620478360019" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1620538254065">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1620538254065" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620478360019" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1620538254066">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1620538254066" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620478360019" />
+    <state x="354" y="85" key="SettingsEditor" timestamp="1619589260370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="354" y="85" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1619589260370" />
+    <state x="484" y="192" key="Vcs.Push.Dialog.v2" timestamp="1620211190998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="403" y="159" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1615281423345" />
+    <state x="484" y="192" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1620211190998" />
+    <state x="241" y="361" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615204519722">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="241" y="361" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1615204519722" />
+    <state x="620" y="93" width="1056" height="947" key="find.popup" timestamp="1620474125119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="425" y="-19" width="879" height="783" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1615279027567" />
+    <state x="620" y="93" width="1056" height="947" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620474125119" />
+    <state x="556" y="219" width="840" height="820" key="search.everywhere.popup" timestamp="1620016689123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1615279545929" />
+    <state x="556" y="219" width="840" height="820" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620016689123" />
+  </component>
+</project>

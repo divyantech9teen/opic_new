@@ -1,0 +1,2 @@
+com/rouf69nb/cloud_audio_player/BuildConfig.java
+ com.rouf69nb.cloud_audio_player.BuildConfig

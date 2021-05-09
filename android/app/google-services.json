@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500251162100",
+    "project_id": "pictikcustomerapp",
+    "storage_bucket": "pictikcustomerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500251162100:android:8ce40423c37de790ad75a1",
+        "android_client_info": {
+          "package_name": "com.pictiknew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500251162100-kgu5sdhphbdv5oaiiru69u2gmk17ccvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiYwAARMJZrZyzjgSPQ8oLzcQcqtz5HmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500251162100-kgu5sdhphbdv5oaiiru69u2gmk17ccvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
